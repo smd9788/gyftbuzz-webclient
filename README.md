@@ -37,4 +37,4 @@ Project will start as a React based web application and then built out for mobil
 
 ## Authors
 
-* **Stephen DiCicco** - *Initial work* - [sdicicco](http://sdicicco.com)
+* **Stephen DiCicco** - [sdicicco](http://sdicicco.com)
